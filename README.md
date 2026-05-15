@@ -31,8 +31,8 @@ Passionate about Artificial Intelligence, Machine Learning & Real-World Problem 
 - 🌱 Exploring Deep Learning, NLP & Computer Vision
 - 🤝 Open to collaborate on AI/ML & Open Source projects
 - 💬 Ask me about Python, ML, DL & Data Science
-- 📫 Reach me at: **yourmail@gmail.com**
-- ⚡ Fun fact: I love turning coffee ☕ into code 💻
+- 📫 Reach me at: **dubeyaarya4@gmail.com**
+- ⚡ Fun fact: I love cats!!
 
 ---
 
