@@ -26,7 +26,7 @@ Passionate about Artificial Intelligence, Machine Learning & Real-World Problem 
 
 ### 📬 Contact Me
 
-- 📧 Email: **yourmail@gmail.com**
+- 📧 Email: **dubeyaarya4@gmail.com**
 - 🤝 Open for internships & collaborations
 - 💬 Ask me about AI/ML, Python & Open Source
 
